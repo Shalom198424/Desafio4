@@ -1,0 +1,32 @@
+*{
+    background: #22D4FD;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 150%; 
+}
+
+.logo{
+    padding-top: 10px;
+    margin-left: 10px;
+    width: 100px;
+}
+
+main{
+    padding: 50px;
+    margin-left: 50px;
+}
+
+
+.logoSH{
+    padding-top: 50px;
+    margin-left: 50px;
+    width: 400px;
+    border-radius: 36px;
+    display: flex;
+    gap: 32px;
+}
+
+.footer{
+    text-align: center;
+}
